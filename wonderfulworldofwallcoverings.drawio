@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T21:12:10.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="kJjLjA2dUbid9qmom04L" version="21.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T21:13:02.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="fx4wAwaPiwh-NQvVo1EC" version="21.7.3" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2250" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1955" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -646,7 +646,7 @@
             <mxPoint x="510" y="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iqFGlyp3xuz1pdJt8W5D-193" value="Wally&#39;s Wonderful World of Wallcoverings" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="iqFGlyp3xuz1pdJt8W5D-193" value="Wally&#39;s Wonderful World of Wallcoverings&lt;br&gt;&lt;br&gt;ERD by: Kyla Caryl Españo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="-480" width="215" height="130" as="geometry" />
         </mxCell>
       </root>
