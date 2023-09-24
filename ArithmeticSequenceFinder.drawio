@@ -1,35 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T17:22:11.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="W2USmMb39YLtWsM36nWu" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T17:46:16.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UxNVxrYF4546FAz9ViHr" version="21.8.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="521" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-0" target="AgrkTU_8FYSsDIzBvHiQ-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-0" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="364" y="40" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-1" target="AgrkTU_8FYSsDIzBvHiQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-1" value="4 number sequence&lt;span id=&quot;docs-internal-guid-0ddb6e71-7fff-28ad-6f8a-a734f48ec6af&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-0ddb6e71-7fff-28ad-6f8a-a734f48ec6af&quot;&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="337" y="140" width="154" height="60" as="geometry" />
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-1" value="Input 4 number sequence&lt;span id=&quot;docs-internal-guid-0ddb6e71-7fff-28ad-6f8a-a734f48ec6af&quot;&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="312.5" y="150" width="203" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-2" target="AgrkTU_8FYSsDIzBvHiQ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-2" value="sequence[i+1] - sequence[i] = commonDifference" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="240" width="179.5" height="70" as="geometry" />
+          <mxGeometry x="324.25" y="270" width="179.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-3" value="Is arithmetic sequence?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="350" width="127" height="120" as="geometry" />
+          <mxGeometry x="350" y="390" width="127" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-4" value="Print&amp;nbsp; commonDifference" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="137" y="510" width="200" height="75" as="geometry" />
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-4" target="AgrkTU_8FYSsDIzBvHiQ-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-5" value="Print not an arithmetic sequence." style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="510" width="260" height="95" as="geometry" />
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-4" value="Print commonDifference" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="124.25" y="520" width="200" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-5" value="Print not an arithmetic sequence" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="520" width="260" height="95" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.571;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-3" target="AgrkTU_8FYSsDIzBvHiQ-4">
           <mxGeometry relative="1" as="geometry" />
@@ -38,10 +35,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-11" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="249" y="388" width="60" height="30" as="geometry" />
+          <mxGeometry x="249" y="428" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AgrkTU_8FYSsDIzBvHiQ-13" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="387" width="60" height="30" as="geometry" />
+          <mxGeometry x="530" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-14" target="AgrkTU_8FYSsDIzBvHiQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-14" value="Input n = series to find" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="129.94" y="660" width="188.62" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-16" target="AgrkTU_8FYSsDIzBvHiQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-16" value="nthTerm = sequence[0] + (n-1) * commonDifference" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="126.38" y="790" width="195.74" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-18" value="Print nth Term" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="146.38" y="940" width="155.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-20" target="AgrkTU_8FYSsDIzBvHiQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="535" y="935" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-5" target="AgrkTU_8FYSsDIzBvHiQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-18" target="AgrkTU_8FYSsDIzBvHiQ-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AgrkTU_8FYSsDIzBvHiQ-23" target="AgrkTU_8FYSsDIzBvHiQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-23" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="364" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-25" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="940" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AgrkTU_8FYSsDIzBvHiQ-27" value="Arithmetic Sequence Finder (Flowchart)&lt;span id=&quot;docs-internal-guid-42185c96-7fff-5222-3fa1-4afc6ee63f6d&quot;&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="109" y="100" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
